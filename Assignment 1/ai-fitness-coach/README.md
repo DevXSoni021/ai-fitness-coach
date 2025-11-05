@@ -372,17 +372,7 @@ Edit `src/app/api/generate-image/route.ts`:
 - Efficient API usage
 - Minimal bundle size
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -393,28 +383,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Tailwind CSS** for utility-first styling
 - **All contributors** who helped improve this project
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/soni0021/ai-fitness-coach/issues) page
-2. Create a new issue with detailed information
-3. Include your environment details and error messages
-4. Provide steps to reproduce the issue
-
-## 🌟 Features Summary
-
-✅ **7-Day Personalized Plans** - Complete workout and diet plans  
-✅ **AI Image Generation** - Unique images for exercises and meals  
-✅ **Text-to-Speech** - Listen to your plans  
-✅ **PDF Export** - Download plans offline  
-✅ **Dark/Light Mode** - Beautiful theme toggle  
-✅ **Responsive Design** - Works on all devices  
-✅ **Local Storage** - Plans persist across sessions  
-✅ **Daily Motivation** - AI-generated quotes  
-✅ **Multiple AI APIs** - Reliable image generation  
-✅ **Professional UI** - Modern, clean interface  
-
----
 
 **Made with ❤️ and AI** - Transform your fitness journey today!
 
